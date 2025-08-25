@@ -287,7 +287,6 @@ O que fazer após isso? Bem, na verdade as possibilidades são sem limites e int
   - [Mateus Roveda](https://github.com/mateusrovedaa): Líder de Comunidade
   - [Rotfuchs von Vulpes](https://github.com/Rotfuchs-von-Vulpes): Admin da Comunidade
   - [Emanuel Castelo](https://github.com/elvcastelo): Admin da Comunidade 
-  - [Ana Hernandes](https://github.com/anachan01h): Admin da Comunidade
   - [Christian](https://github.com/Every2): Admin da Comunidade
   - [Igor Vinoski](https://github.com/igorvinoski): Admin da Comunidade 
   - [Leonardo Fiedler](https://github.com/leonardoFiedler): Moderador da Comunidade
